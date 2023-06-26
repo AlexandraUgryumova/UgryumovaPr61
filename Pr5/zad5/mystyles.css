@@ -1,0 +1,131 @@
+﻿^contentpage{
+    background-color: black;
+}
+.PageBackgroundColor {
+
+    background-color: black;
+}
+
+#header {
+    font-size:32;
+    font-weight:bolder;
+    color:black;
+}
+#Button111{
+    color: white;
+    background-color:brown;
+    border-radius:10;
+}
+
+#RadioButton{
+    outline-color: green;
+    background-color:white;
+    border-color: green;
+}
+
+label{
+    color:white;
+}
+.LabelTextColor {
+    color: black;
+}
+
+.EnrtyStyle{
+    font-size:16;
+    background-color:white;
+}
+#styleMe {
+    font-size: 24;
+    background-color: white;
+    color:black;
+}
+#styleMe2{
+    font-size: 15;
+    background-color: black;
+    color: white;
+}
+
+#Picker {
+    background: linear-gradient( rgb(255,0,0)100%, 180deg, rgb(242,224,155) 0%);
+    border-radius: 20;
+    border-block-color: white;
+    color: white;
+
+}
+Picker item {
+    background-color: white;
+}
+
+#stylebut {
+    font-size: 20;
+    background-color: #459F45;
+    color: white;
+    border-radius: 25;
+}
+
+#stylebut2 {
+    font-size: 20;
+    background-color: #E0E0E0;
+    color: black;
+    border-radius: 25;
+    border-bottom-color: gray;
+}
+
+#stylebut3 {
+    font-size: 20;
+    background: linear-gradient(180deg, rgb(242,224,155) 0%, rgb(255,0,0)100%);
+    color: white;
+    border-radius: 25;
+}
+
+#stylebut4 {
+    font-size: 16;
+    background-color: #459F45;
+    color: white;
+    border-radius: 25;
+}
+
+#stylebut5 {
+    font-size: 16;
+    background-color: #E0E0E0;
+    color: black;
+    border-radius: 25;
+    box-shadow:inset
+}
+
+#stylebut6 {
+    font-size: 16;
+    background-color: white;
+    color: black;
+    border-radius: 25;
+    border-width: 3;
+    border-color: orangered;
+}
+
+#stylebut7 {
+    font-size: 10;
+    background-color: #459F45;
+    color: white;
+    border-radius: 17;
+    height: 33;
+}
+
+#stylebut8 {
+    font-size: 10;
+    background-color: #E0E0E0;
+    color: black;
+    border-radius: 17;
+    height:33;
+    box-shadow:initial;
+
+}
+
+#stylebut9 {
+    font-size: 10;
+    background-color: white;
+    color: orangered;
+    border-radius: 17;
+    border-width: 3;
+    height:33;
+    border-color: orangered;
+}
